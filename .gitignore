@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# MSP VPN Specific Secrets
+src/clients.json
+src/clients.backup.json
+src/WireGuard/
+src/OpenVPN/
